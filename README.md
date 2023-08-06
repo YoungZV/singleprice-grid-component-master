@@ -7,6 +7,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -26,6 +27,11 @@ Users should be able to:
 
 ![Desktop](./screenshots/desktop.png)
 ![Mobile](./screenshots/mobile.png)
+
+### Links
+
+- Solution URL: https://github.com/YoungZV/singleprice-grid-component-master.git
+- Live Site URL: https://youngzv.github.io/singleprice-grid-component-master/
 
 ## My process
 
