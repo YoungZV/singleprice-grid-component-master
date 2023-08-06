@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+picture,
+img,
+svg,
+video {
+    width: 100%;
+    display: block;
+}
